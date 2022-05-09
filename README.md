@@ -3,11 +3,11 @@
 ## Instruções (dicas) para testar a aplicação 
 
 ### Interagindo com a inteface:
-- Executar o codígo fonte (AgenciaBancaria).
+- Executar o código fonte (AgenciaBancaria).
 - Primeiro crie duas contas. Com nome, CPF e e-mail, elas serão inumeradas de acordo com a ordem de criação, exemplo: conta 1, conta 2 conta 3...
 - Deposite um valor alto em uma das contas para facilitar na hora dos testes.
 - Faça as transferências e valide os valores desejados. (os valores passam de uma conta para outra).
-- Para a companhar cada teste é possível validar as ações realizadas com a OPÇÃO 7 - LISTAR AÇÕES.
+- Para acompanhar cada teste é possível validar as ações realizadas com a OPÇÃO 7 - LISTAR AÇÕES.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
